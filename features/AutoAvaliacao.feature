@@ -11,6 +11,10 @@ ajustando a discrepancia
 
 
 A cidade do Recife é uma cidade  rica em cultura
+<<<<<<< HEAD
 
 
 Eu gosto muito de sushi
+=======
+Testando o rebase mais uma vez - 2
+>>>>>>> 7f29917 (1 - segundo teste de rebase)
