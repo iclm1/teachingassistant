@@ -4,4 +4,6 @@ Um cenário que não há discrepância
 No cenário de agora há discrepância
 
 Nova alteração:
-ajustando a discrepancia 
+ajustando a discrepancia
+
+A cidade do Recife é uma cidade  rica em cultura
