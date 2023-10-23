@@ -23,3 +23,5 @@ Testando o rebase mais uma vez - 2
 Testando o rebase mais uma vez - 2
 Alo alo Teresinha
 >>>>>>> 7d778f3 (2 - segundo teste de rebase)
+
+Novo cenário de visualização, pequeno ajuste
